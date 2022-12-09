@@ -1,0 +1,2 @@
+variable "elasticache" {}
+variable "env" {}
